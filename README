@@ -1,4 +1,2 @@
-This is the final project for WGU d287.  
-
 The project creates a mock ecommerce site that sells products as well as the parts that are used to build these products.  This project was created using Spring and
 implements custom validators for form functionality.  
