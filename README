@@ -1,4 +1,6 @@
-The project creates a mock ecommerce site that sells products as well as the parts that are used to build those products.  This project was created using Spring and
+The project creates a mock ecommerce site that sells products as well as the parts that are used to build those products.  This project was created using Spring and Angular.
 
-The application utilizes a Spring back-end, incorporating custom validators for various application functions.
+Custom validators were written to ensure that the site behaves correctly.  For example, when ordering a product, there must be enough parts available to create that product. 
+
+ 
 
